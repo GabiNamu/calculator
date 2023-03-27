@@ -10,7 +10,7 @@ It is a simple application of a calculator with css based on the ios calculator 
 - First clone the repository into your machine;
 
 ```
-git clone git@github.com:GabiNamu/trybewallet.git
+git clone git@github.com:GabiNamu/calculator.git
 ```
 - Go to the project directory;
 
