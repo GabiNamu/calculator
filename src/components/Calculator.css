@@ -49,9 +49,9 @@ button:hover {
 
 @media screen and (max-width: 410px) { 
     button {
-        width: 2.2em;
-        height: 2.2em;
-        font-size: 1.5em;
+        width: 2.3em;
+        height: 2.3em;
+        font-size: 1.6em;
         border: none;
         border-radius: 2em;
         margin: 0.3em;
@@ -61,6 +61,6 @@ button:hover {
         width: 4.4em;
         height: 2.2em;
         text-align: left;
-        padding-left: 1.2em;
+        padding-left: 1em;
     }
 }
